@@ -2,7 +2,7 @@
  
 </sub> This program is based off a simplified version of Googles PageRank algorithm where the web is represented by a graph 
 
-<sub> First number represents the following number of lines and the second number represnts the power iteratino fo teh matrix mulitplication
+<sub> First number represents the following number of lines and the second number represnts the power iteration of the matrix mulitplication
 
 ### Sample Input
 ```
